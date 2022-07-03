@@ -7,7 +7,7 @@
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
-  <img width= 50px align="center" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />        
+  <img width= 50px align="center" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />        
   <img width= 50px align="center" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img width= 50px align="center" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img width= 50px align="center" alt="nd" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /         
