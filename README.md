@@ -2,6 +2,8 @@
 
 [![Whatsaap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=558298116243)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igo__vieira/)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)]()
+[![Linkedin](https://img.icons8.com/color/48/000000/linkedin-circled--v1.png)](https://www.linkedin.com/in/igo-vieira-691920142/)
 
 
 ## Tecnologias que eu uso no meu dia
