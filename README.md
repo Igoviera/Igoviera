@@ -2,7 +2,7 @@
 
 [![Whatsaap](https://img.icons8.com/color/48/000000/whatsapp--v1.png)](https://api.whatsapp.com/send?phone=558298116243)
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/igo__vieira/)
-[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)]()
+[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](igo.vieira@live.com)
 [![Linkedin](https://img.icons8.com/color/48/000000/linkedin-circled--v1.png)](https://www.linkedin.com/in/igo-vieira-691920142/)
 
 
