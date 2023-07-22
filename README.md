@@ -17,7 +17,7 @@
 </div><br/>
   
 
-Apaixonado por tecnologia.
+
 
 <!---
 Igoviera/Igoviera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
