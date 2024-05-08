@@ -15,7 +15,7 @@
   <img width= 50px align="center" alt=ts src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img width= 51px align="center" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img width= 51px align="center" alt="nd" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /
-  < img width= 51px align="center" alt="postgreSql"src="https://camo.githubusercontent.com/70e8cff4920d7aaa6f54dd31e93faf8bd4ba9f690c1c497f7e00e79cda6d3cec/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d706c61696e2e737667"/>
+  <img width= 51px align="center" alt="postgreSql" src="https://camo.githubusercontent.com/70e8cff4920d7aaa6f54dd31e93faf8bd4ba9f690c1c497f7e00e79cda6d3cec/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d706c61696e2e737667"/>
 </div><br/>
   
 
