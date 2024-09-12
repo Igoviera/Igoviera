@@ -4,7 +4,7 @@
 <tr/>
 
 ## Tecnologias que eu uso no meu dia
-
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 <div style="display: inline_block">
 Back End: [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
